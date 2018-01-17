@@ -96,13 +96,13 @@ var d3Graphs = {
     },
     clickTimeline:function() {
         var year = $(this).html();
-        if(year < 10) {
-            year = (year * 1) + 2000;
-        }
-        if(year < 100) {
-            year = (year * 1) + 1900
-        }
-        var index = year - 1992;
+        //if(year < 2010) {
+        //    year = (year * 1) + 2000;
+        //}
+        //if(year < 100) {
+        //    year = (year * 1) + 1900
+        //}
+        var index = year - 2013;
         var leftPos = d3Graphs.handleLeftOffset + d3Graphs.handleInterval * index;
         $("#handle").css('left',leftPos+"px");
         d3Graphs.updateViz();
@@ -168,7 +168,7 @@ var d3Graphs = {
         yearOffset = yearOffset.substr(0,yearOffset.length-2);
         yearOffset -= d3Graphs.handleLeftOffset;
         yearOffset /= d3Graphs.handleInterval;
-        var year = yearOffset + 1992;
+        var year = yearOffset + 2013;
         
         var country = $("#hudButtons .countryTextInput").val().toUpperCase();
         if(typeof countryData[country] == 'undefined') {
@@ -800,6 +800,6 @@ function abbreviateNumber(value) {
         if (shortValue % 1 != 0)  shortNum = shortValue.toFixed(1);
         newValue = shortValue+suffixes[suffixNum];
     }
-    return '$' + newValue;
+    return '' + newValue;
 }
 

@@ -160,6 +160,7 @@ Elements to control the title and country selector
 */
 .overlayCountries {
     z-index: 10001; /* selected country has z-index:10000*/
+	left: auto;
 }
 .pointer {
     pointer-events: auto;
@@ -322,7 +323,7 @@ Bar graph on left
 #history {
     position: 				absolute;
     bottom: 				0;
-    left: 					386px;
+    left: 					200px;
     background-color: 		rgba(43,43,43,0.9);
     display: 				none;
 }
@@ -335,7 +336,7 @@ Bar graph on left
     color:                  white;
     font-size:              12px;
     font-family:            'Roboto';
-    width:                  668px;
+    width:                  150px;
     background:             url('timelineBG.png') 8px 0 no-repeat; /*to be resized!*/
 }
 #history ul li {
@@ -353,7 +354,7 @@ Bar graph on left
     background:             url('yearHandle.png') 0px 0 no-repeat;
     position:               absolute;
     bottom:                 20px;
-    left:                   642px;    
+    left:                   117px;    
 }
 #history .graph {
     display: none;

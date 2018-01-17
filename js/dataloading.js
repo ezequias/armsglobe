@@ -20,15 +20,15 @@ function loadWorldPins( callback ){
 	xhr.send( null );			    	
 }
 
-function loadContentData(callback){	
+function loadContentData(callback) {
 	var filePath = "categories/All.json";
 	filePath = encodeURI( filePath );
-	// console.log(filePath);
-			
+		
 	xhr = new XMLHttpRequest();
 	xhr.open( 'GET', filePath, true );
 	xhr.onreadystatechange = function() {
 		if ( xhr.readyState === 4 && xhr.status === 200 ) {
+		//if (xhr.readyState == XMLHttpRequest.DONE) {
 	    	timeBins = JSON.parse( xhr.responseText ).timeBins;
 		
 			maxValue = 0;
@@ -52,7 +52,7 @@ function loadCountryCodes( callback ){
 	cxhr.onreadystatechange = function() {
 		if ( cxhr.readyState === 4 && cxhr.status === 200 ) {
 	    	countryLookup = JSON.parse( cxhr.responseText );	
-	    	console.log("loaded country codes");
+	    	console.log("carregando código de países");
 	    	callback();
 	    }
 	};

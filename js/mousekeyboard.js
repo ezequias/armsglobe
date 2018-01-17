@@ -32,7 +32,7 @@ function onDocumentMouseMove( event ) {
 	}
 }
 
-function onDocumentMouseDown( event ) {	
+function onDocumentMouseDown(event) {
     if(event.target.className.indexOf('noMapDrag') !== -1) {
         return;
     }
