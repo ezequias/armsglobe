@@ -485,38 +485,26 @@
           "i": "Brazil",
           "wc": "mil",
           "e": "BANGLADESH",
-          "v": 654
+          "v": 335
         },
         {
           "i": "Brazil",
           "wc": "mil",
           "e": "BENIN",
-          "v": 38
+          "v": 70
         },
         {
           "i": "Brazil",
           "wc": "mil",
           "e": "BOLIVIA, PLURINATIONAL STATE OF",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURKINA FASO",
-          "v": 92
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BULGARIA",
           "v": 2
         },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURKINA FASO",
-          "v": 17
-        },
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURKINA FASO",
+					"v": 92
+				},
         {
           "i": "Brazil",
           "wc": "mil",
