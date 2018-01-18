@@ -356,12 +356,18 @@
           "e": "SENEGAL",
           "v": 1438
         },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SIERRA LEONE",
-          "v": 30
-        },
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SIERRA LEONE",
+					"v": 30
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SERBIA",
+					"v": 2
+				},
          {
           "i": "Brazil",
           "wc": "mil",
@@ -1449,24 +1455,6 @@
         {
           "i": "Brazil",
           "wc": "mil",
-          "e": "SENEGAL",
-          "v": 942
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SIERRA LEONE",
-          "v": 49
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SERBIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
           "e": "ROMANIA",
           "v": 3
         },
@@ -1476,11 +1464,29 @@
           "e": "RUSSIA",
           "v": 6
         },
-        {
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SAO TOME AND PRINCIPE",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SENEGAL",
+					"v": 942
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SIERRA LEONE",
+					"v": 49
+				},
+				{
           "i": "Brazil",
           "wc": "mil",
-          "e": "SAO TOME AND PRINCIPE",
-          "v": 3
+          "e": "SERBIA",
+          "v": 2
         },
         {
           "i": "Brazil",
@@ -1506,10 +1512,16 @@
           "e": "SUDAN",
           "v": 7
         },
-        {
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SWEDEN",
+					"v": 1
+				},
+				{
           "i": "Brazil",
           "wc": "mil",
-          "e": "SWEDEN",
+          "e": "SWAZILAND",
           "v": 1
         },
         {
@@ -1578,11 +1590,17 @@
           "e": "UZBEKISTAN",
           "v": 1
         },
-        {
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+					"v": 348
+				},
+				 {
           "i": "Brazil",
           "wc": "mil",
-          "e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
-          "v": 348
+          "e": "ZAMBIA",
+          "v": 3
         }
       ],
       "t": 2015
