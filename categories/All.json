@@ -1,361 +1,361 @@
 {
-  "timeBins": [
-    {
-      "data": [
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "AFGHANISTAN",
-          "v": 16
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH AFRICA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GERMANY",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ANGOLA",
-          "v": 98
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ALGERIA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BANGLADESH",
-          "v": 1845
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BENIN",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BOLIVIA, PLURINATIONAL STATE OF",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURKINA FASO",
-          "v": 34
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BHUTAN",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAPE VERDE",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAMEROON",
-          "v": 26
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHILE",
-          "v": 1
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHINA",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "COLOMBIA",
-          "v": 146
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CÔTE D'IVOIRE",
-          "v": 11
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CUBA",
-          "v": 55
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EGYPT",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EL SALVADOR",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ECUADOR",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ERITREA",
-          "v": 16
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SPAIN",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ETHIOPIA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PHILIPPINES",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "FRANCE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GAMBIA",
-          "v": 16
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GHANA",
-          "v": 208
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUATEMALA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "FRENCH GUIANA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA-BISSAU",
-          "v": 205
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA",
-          "v": 63
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EQUATORIAL GUINEA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "HAITI",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDIA",
-          "v": 29
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAN, ISLAMIC REPUBLIC OF",
-          "v": 27
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAQ",
-          "v": 27
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ISRAEL",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LEBANON",
-          "v": 324
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBYA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBERIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MALI",
-          "v": 75
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MALAYSIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOROCCO",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MAURITANIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOZAMBIQUE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NEPAL",
-          "v": 23
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NIGERIA",
-          "v": 152
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PALESTINIAN TERRITORY, OCCUPIED",
-          "v": 13
-        },
-          {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PANAMA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PAKISTAN",
-          "v": 105
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PERU",
-          "v": 6
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PORTUGAL",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "KENYA",
-          "v": 12
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 220
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "DOMINICAN REPUBLIC",
-          "v": 208
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ROMANIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SAO TOME AND PRINCIPE",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SENEGAL",
-          "v": 1438
-        },
+	"timeBins": [
+		{
+			"data": [
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "AFGHANISTAN",
+					"v": 16
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOUTH AFRICA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GERMANY",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ANGOLA",
+					"v": 98
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ALGERIA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BANGLADESH",
+					"v": 1845
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BENIN",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BOLIVIA, PLURINATIONAL STATE OF",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURKINA FASO",
+					"v": 34
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BHUTAN",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAPE VERDE",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAMEROON",
+					"v": 26
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHILE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHINA",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "COLOMBIA",
+					"v": 146
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CÔTE D'IVOIRE",
+					"v": 11
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CUBA",
+					"v": 55
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EGYPT",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EL SALVADOR",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ECUADOR",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ERITREA",
+					"v": 16
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SPAIN",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ETHIOPIA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PHILIPPINES",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "FRANCE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GAMBIA",
+					"v": 16
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GHANA",
+					"v": 208
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUATEMALA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "FRENCH GUIANA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA-BISSAU",
+					"v": 205
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA",
+					"v": 63
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EQUATORIAL GUINEA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "HAITI",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDIA",
+					"v": 29
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAN, ISLAMIC REPUBLIC OF",
+					"v": 27
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAQ",
+					"v": 27
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ISRAEL",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LEBANON",
+					"v": 324
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBYA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBERIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MALI",
+					"v": 75
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MALAYSIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOROCCO",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MAURITANIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOZAMBIQUE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NEPAL",
+					"v": 23
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NIGERIA",
+					"v": 152
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PALESTINIAN TERRITORY, OCCUPIED",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PANAMA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PAKISTAN",
+					"v": 105
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PERU",
+					"v": 6
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PORTUGAL",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "KENYA",
+					"v": 12
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 220
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "DOMINICAN REPUBLIC",
+					"v": 208
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ROMANIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SAO TOME AND PRINCIPE",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SENEGAL",
+					"v": 1438
+				},
 				{
 					"i": "Brazil",
 					"wc": "mil",
@@ -368,1084 +368,1084 @@
 					"e": "SERBIA",
 					"v": 2
 				},
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SYRIAN ARAB REPUBLIC",
-          "v": 275
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOMALIA",
-          "v": 131
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SRI LANKA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SUDAN",
-          "v": 17
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TANZANIA, UNITED REPUBLIC OF",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TOGO",
-          "v": 19
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TUNISIA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TURKEY",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UGANDA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
-          "v": 30
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ZAMBIA",
-          "v": 2
-        }
-      ],
-      "t": 2013
-    },
-    {
-      "data": [
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "AFGHANISTAN",
-          "v": 53
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH AFRICA",
-          "v": 128
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GERMANY",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ANGOLA",
-          "v": 194
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ALGERIA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ARGENTINA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ARMENIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BANGLADESH",
-          "v": 335
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BENIN",
-          "v": 70
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BOLIVIA, PLURINATIONAL STATE OF",
-          "v": 2
-        },
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SYRIAN ARAB REPUBLIC",
+					"v": 275
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOMALIA",
+					"v": 131
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SRI LANKA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SUDAN",
+					"v": 17
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TANZANIA, UNITED REPUBLIC OF",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TOGO",
+					"v": 19
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TUNISIA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TURKEY",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UGANDA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+					"v": 30
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ZAMBIA",
+					"v": 2
+				}
+			],
+			"t": 2013
+		},
+		{
+			"data": [
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "AFGHANISTAN",
+					"v": 53
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOUTH AFRICA",
+					"v": 128
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GERMANY",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ANGOLA",
+					"v": 194
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ALGERIA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ARGENTINA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ARMENIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BANGLADESH",
+					"v": 335
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BENIN",
+					"v": 70
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BOLIVIA, PLURINATIONAL STATE OF",
+					"v": 2
+				},
 				{
 					"i": "Brazil",
 					"wc": "mil",
 					"e": "BURKINA FASO",
 					"v": 92
 				},
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURUNDI",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BHUTAN",
-          "v": 25
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAPE VERDE",
-          "v": 32
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAMEROON",
-          "v": 103
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CANADA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHINA",
-          "v": 228
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "COLOMBIA",
-          "v": 123
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 14
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH COREA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CÔTE D'IVOIRE",
-          "v": 43
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "COSTA RICA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CUBA",
-          "v": 185
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EGYPT",
-          "v": 66
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EL SALVADOR",
-          "v": 9
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ECUADOR",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ERITREA",
-          "v": 14
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SPAIN",
-          "v": 7
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UNITED STATES",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ETHIOPIA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PHILIPPINES",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GAMBIA",
-          "v": 59
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GHANA",
-          "v": 1315
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GEORGIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GREECE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUATEMALA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUYANA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA-BISSAU",
-          "v": 346
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA",
-          "v": 137
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "YEMEN",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDIA",
-          "v": 51
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDONESIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAN, ISLAMIC REPUBLIC OF",
-          "v": 17
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAQ",
-          "v": 68
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ISRAEL",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ITALY",
-          "v": 3
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "JAMAICA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "JORDAN",
-          "v": 21
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LEBANON",
-          "v": 629
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBYA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBERIA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LITHUANIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MALI",
-          "v": 130
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOROCCO",
-          "v": 27
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MAURITANIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MEXICO",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOZAMBIQUE",
-          "v": 14
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MYANMAR",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NAMIBIA",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NEPAL",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NICARAGUA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NIGERIA",
-          "v": 1286
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PALESTINIAN TERRITORY, OCCUPIED",
-          "v": 255
-        },
-          {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PANAMA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PAKISTAN",
-          "v": 474
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PARAGUAY",
-          "v": 22
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PERU",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PORTUGAL",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "KENYA",
-          "v": 9
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CENTRAL AFRICAN REPUBLIC",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 554
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "DOMINICAN REPUBLIC",
-          "v": 358
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CZECH REPUBLIC",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ROMANIA",
-          "v": 2
-        },
-         {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "RWANDA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "RUSSIA",
-          "v": 11
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SAO TOME AND PRINCIPE",
-          "v": 6
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SENEGAL",
-          "v": 2349
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SIERRA LEONE",
-          "v": 83
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SYRIAN ARAB REPUBLIC",
-          "v": 1492
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOMALIA",
-          "v": 108
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SRI LANKA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SUDAN",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SWEDEN",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TANZANIA, UNITED REPUBLIC OF",
-          "v": 37
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TIBET",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TOGO",
-          "v": 85
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TUNISIA",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TURKEY",
-          "v": 14
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UKRAINE",
-          "v": 20
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UGANDA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "URUGUAY",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
-          "v": 161
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ZAMBIA",
-          "v": 1
-        }
-      ],
-      "t": 2014
-    },
-    {
-      "data": [
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "AFGHANISTAN",
-          "v": 31
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH AFRICA",
-          "v": 164
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GERMANY",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ANGOLA",
-          "v": 514
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ALGERIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ARGENTINA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BANGLADESH",
-          "v": 654
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BENIN",
-          "v": 38
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BOLIVIA, PLURINATIONAL STATE OF",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BULGARIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURKINA FASO",
-          "v": 17
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURUNDI",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BHUTAN",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAPE VERDE",
-          "v": 33
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CAMEROON",
-          "v": 50
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHILE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHINA",
-          "v": 144
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "COLOMBIA",
-          "v": 55
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 30
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH COREA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CÔTE D'IVOIRE",
-          "v": 22
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CUBA",
-          "v": 236
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EGYPT",
-          "v": 41
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ECUADOR",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ERITREA",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SPAIN",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UNITED STATES",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ETHIOPIA",
-          "v": 7
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PHILIPPINES",
-          "v": 75
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "FRANCE",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GAMBIA",
-          "v": 128
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GHANA",
-          "v": 366
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GREECE",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUATEMALA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUYANA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA-BISSAU",
-          "v": 186
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA",
-          "v": 52
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "HONDURAS",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "YEMEN",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDIA",
-          "v": 39
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDONESIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAN, ISLAMIC REPUBLIC OF",
-          "v": 22
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "IRAQ",
-          "v": 52
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ISRAEL",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ITALY",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "JORDAN",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "KOSOVO",
-          "v": 13
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LEBANON",
-          "v": 211
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBYA",
-          "v": 7
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LIBERIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LITHUANIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MALI",
-          "v": 69
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MALAYSIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOROCCO",
-          "v": 43
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MAURITANIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MEXICO",
-          "v": 9
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "MOZAMBIQUE",
-          "v": 21
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NAMIBIA",
-          "v": 12
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NEPAL",
-          "v": 18
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NIGER",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NIGERIA",
-          "v": 531
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PALESTINIAN TERRITORY, OCCUPIED",
-          "v": 128
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PAKISTAN",
-          "v": 304
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PERU",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "POLAND",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PORTUGAL",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "KENYA",
-          "v": 15
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CENTRAL AFRICAN REPUBLIC",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 417
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "DOMINICAN REPUBLIC",
-          "v": 243
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ROMANIA",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "RUSSIA",
-          "v": 6
-        },
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURUNDI",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BHUTAN",
+					"v": 25
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAPE VERDE",
+					"v": 32
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAMEROON",
+					"v": 103
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CANADA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHINA",
+					"v": 228
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "COLOMBIA",
+					"v": 123
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 14
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "KOREA, REPUBLIC OF",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CÔTE D'IVOIRE",
+					"v": 43
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "COSTA RICA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CUBA",
+					"v": 185
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EGYPT",
+					"v": 66
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EL SALVADOR",
+					"v": 9
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ECUADOR",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ERITREA",
+					"v": 14
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SPAIN",
+					"v": 7
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UNITED STATES",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ETHIOPIA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PHILIPPINES",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GAMBIA",
+					"v": 59
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GHANA",
+					"v": 1315
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GEORGIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GREECE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUATEMALA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUYANA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA-BISSAU",
+					"v": 346
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA",
+					"v": 137
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "YEMEN",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDIA",
+					"v": 51
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDONESIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAN, ISLAMIC REPUBLIC OF",
+					"v": 17
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAQ",
+					"v": 68
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ISRAEL",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ITALY",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "JAMAICA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "JORDAN",
+					"v": 21
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LEBANON",
+					"v": 629
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBYA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBERIA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LITHUANIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MALI",
+					"v": 130
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOROCCO",
+					"v": 27
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MAURITANIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MEXICO",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOZAMBIQUE",
+					"v": 14
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MYANMAR",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NAMIBIA",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NEPAL",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NICARAGUA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NIGERIA",
+					"v": 1286
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PALESTINIAN TERRITORY, OCCUPIED",
+					"v": 255
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PANAMA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PAKISTAN",
+					"v": 474
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PARAGUAY",
+					"v": 22
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PERU",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PORTUGAL",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "KENYA",
+					"v": 9
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CENTRAL AFRICAN REPUBLIC",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO",
+					"v": 554
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "DOMINICAN REPUBLIC",
+					"v": 358
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CZECH REPUBLIC",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ROMANIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "RWANDA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "RUSSIAN FEDERATION",
+					"v": 11
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SAO TOME AND PRINCIPE",
+					"v": 6
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SENEGAL",
+					"v": 2349
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SIERRA LEONE",
+					"v": 83
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SYRIAN ARAB REPUBLIC",
+					"v": 1492
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOMALIA",
+					"v": 108
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SRI LANKA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SUDAN",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SWEDEN",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TANZANIA, UNITED REPUBLIC OF",
+					"v": 37
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TIBET",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TOGO",
+					"v": 85
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TUNISIA",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TURKEY",
+					"v": 14
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UKRAINE",
+					"v": 20
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UGANDA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "URUGUAY",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+					"v": 161
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ZAMBIA",
+					"v": 1
+				}
+			],
+			"t": 2014
+		},
+		{
+			"data": [
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "AFGHANISTAN",
+					"v": 31
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOUTH AFRICA",
+					"v": 164
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GERMANY",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ANGOLA",
+					"v": 514
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ALGERIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ARGENTINA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BANGLADESH",
+					"v": 654
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BENIN",
+					"v": 38
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BOLIVIA, PLURINATIONAL STATE OF",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BULGARIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURKINA FASO",
+					"v": 17
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURUNDI",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BHUTAN",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAPE VERDE",
+					"v": 33
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CAMEROON",
+					"v": 50
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHILE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHINA",
+					"v": 144
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "COLOMBIA",
+					"v": 55
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 30
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOUTH COREA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CÔTE D'IVOIRE",
+					"v": 22
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CUBA",
+					"v": 236
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EGYPT",
+					"v": 41
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ECUADOR",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ERITREA",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SPAIN",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UNITED STATES",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ETHIOPIA",
+					"v": 7
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PHILIPPINES",
+					"v": 75
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "FRANCE",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GAMBIA",
+					"v": 128
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GHANA",
+					"v": 366
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GREECE",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUATEMALA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUYANA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA-BISSAU",
+					"v": 186
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA",
+					"v": 52
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "HONDURAS",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "YEMEN",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDIA",
+					"v": 39
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDONESIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAN, ISLAMIC REPUBLIC OF",
+					"v": 22
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "IRAQ",
+					"v": 52
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ISRAEL",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ITALY",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "JORDAN",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "KOSOVO",
+					"v": 13
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LEBANON",
+					"v": 211
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBYA",
+					"v": 7
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LIBERIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LITHUANIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MALI",
+					"v": 69
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MALAYSIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOROCCO",
+					"v": 43
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MAURITANIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MEXICO",
+					"v": 9
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "MOZAMBIQUE",
+					"v": 21
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NAMIBIA",
+					"v": 12
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NEPAL",
+					"v": 18
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NIGER",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NIGERIA",
+					"v": 531
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PALESTINIAN TERRITORY, OCCUPIED",
+					"v": 128
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PAKISTAN",
+					"v": 304
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PERU",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "POLAND",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PORTUGAL",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "KENYA",
+					"v": 15
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CENTRAL AFRICAN REPUBLIC",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 417
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "DOMINICAN REPUBLIC",
+					"v": 243
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ROMANIA",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "RUSSIAN FEDERATION",
+					"v": 6
+				},
 				{
 					"i": "Brazil",
 					"wc": "mil",
@@ -1465,35 +1465,35 @@
 					"v": 49
 				},
 				{
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SERBIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SYRIAN ARAB REPUBLIC",
-          "v": 930
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOMALIA",
-          "v": 92
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SRI LANKA",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SUDAN",
-          "v": 7
-        },
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SERBIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SYRIAN ARAB REPUBLIC",
+					"v": 930
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOMALIA",
+					"v": 92
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SRI LANKA",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SUDAN",
+					"v": 7
+				},
 				{
 					"i": "Brazil",
 					"wc": "mil",
@@ -1501,252 +1501,252 @@
 					"v": 1
 				},
 				{
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SWAZILAND",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SURINAME",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "THAILAND",
-          "v": 22
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TANZANIA, UNITED REPUBLIC OF",
-          "v": 38
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TIBET",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TOGO",
-          "v": 128
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TUNISIA",
-          "v": 9
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TURKEY",
-          "v": 5
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UKRAINE",
-          "v": 23
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UGANDA",
-          "v": 4
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "URUGUAY",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "UZBEKISTAN",
-          "v": 1
-        },
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SWAZILAND",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SURINAME",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "THAILAND",
+					"v": 22
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TANZANIA, UNITED REPUBLIC OF",
+					"v": 38
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TIBET",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TOGO",
+					"v": 128
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TUNISIA",
+					"v": 9
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TURKEY",
+					"v": 5
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UKRAINE",
+					"v": 23
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UGANDA",
+					"v": 4
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "URUGUAY",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "UZBEKISTAN",
+					"v": 1
+				},
 				{
 					"i": "Brazil",
 					"wc": "mil",
 					"e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
 					"v": 348
 				},
-				 {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ZAMBIA",
-          "v": 3
-        }
-      ],
-      "t": 2015
-    },
-    {
-      "data": [
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "AFGHANISTAN",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SOUTH AFRICA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "ANGOLA",
-          "v": 11
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BANGLADESH",
-          "v": 7
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "BURUNDI",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CHINA",
-          "v": 6
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 6
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CUBA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "EGYPT",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GAMBIA",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GHANA",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA-BISSAU",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "GUINEA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "INDIA",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "LEBANON",
-          "v": 2
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NEPAL",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "NIGERIA",
-          "v": 8
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PALESTINIAN TERRITORY, OCCUPIED",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "PAKISTAN",
-          "v": 6
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "DOMINICAN REPUBLIC",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SENEGAL",
-          "v": 1
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SIERRA LEONE",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "SYRIAN ARAB REPUBLIC",
-          "v": 20
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "TOGO",
-          "v": 3
-        },
-        {
-          "i": "Brazil",
-          "wc": "mil",
-          "e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
-          "v": 2
-        }
-      ],
-      "t": 2016
-    }
-  ]
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ZAMBIA",
+					"v": 3
+				}
+			],
+			"t": 2015
+		},
+		{
+			"data": [
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "AFGHANISTAN",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SOUTH AFRICA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "ANGOLA",
+					"v": 11
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BANGLADESH",
+					"v": 7
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "BURUNDI",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CHINA",
+					"v": 6
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 6
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CUBA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "EGYPT",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GAMBIA",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GHANA",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA-BISSAU",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "GUINEA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "INDIA",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "LEBANON",
+					"v": 2
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NEPAL",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "NIGERIA",
+					"v": 8
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PALESTINIAN TERRITORY, OCCUPIED",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "PAKISTAN",
+					"v": 6
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "DOMINICAN REPUBLIC",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SENEGAL",
+					"v": 1
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SIERRA LEONE",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "SYRIAN ARAB REPUBLIC",
+					"v": 20
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "TOGO",
+					"v": 3
+				},
+				{
+					"i": "Brazil",
+					"wc": "mil",
+					"e": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+					"v": 2
+				}
+			],
+			"t": 2016
+		}
+	]
 }
